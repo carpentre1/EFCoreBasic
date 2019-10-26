@@ -1,0 +1,8 @@
+C:\EntityFramework\EFCoreBasic\EntityFrameworkCore\EntityFrameworkCore\bin\Debug\netcoreapp2.1\EntityFrameworkCore.deps.json
+C:\EntityFramework\EFCoreBasic\EntityFrameworkCore\EntityFrameworkCore\bin\Debug\netcoreapp2.1\EntityFrameworkCore.runtimeconfig.json
+C:\EntityFramework\EFCoreBasic\EntityFrameworkCore\EntityFrameworkCore\bin\Debug\netcoreapp2.1\EntityFrameworkCore.runtimeconfig.dev.json
+C:\EntityFramework\EFCoreBasic\EntityFrameworkCore\EntityFrameworkCore\bin\Debug\netcoreapp2.1\EntityFrameworkCore.dll
+C:\EntityFramework\EFCoreBasic\EntityFrameworkCore\EntityFrameworkCore\obj\Debug\netcoreapp2.1\EntityFrameworkCore.csprojAssemblyReference.cache
+C:\EntityFramework\EFCoreBasic\EntityFrameworkCore\EntityFrameworkCore\obj\Debug\netcoreapp2.1\EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\EntityFramework\EFCoreBasic\EntityFrameworkCore\EntityFrameworkCore\obj\Debug\netcoreapp2.1\EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\EntityFramework\EFCoreBasic\EntityFrameworkCore\EntityFrameworkCore\obj\Debug\netcoreapp2.1\EntityFrameworkCore.AssemblyInfo.cs
